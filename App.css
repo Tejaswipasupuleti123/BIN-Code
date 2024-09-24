@@ -1,0 +1,68 @@
+.navbar-custom {
+  background-color: #f7b715; 
+}
+
+
+.navbar-logo {
+  height: 40px;
+  margin-right: 10px;
+}
+.login-section {
+  background-color: #ffe6e6; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.new-section {
+  background-color: #e6f7ff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.credit-card-info {
+  background-color: #e6ffe6; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.finance-info {
+  background-color: #ffffe6; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.tracking-transactions {
+  background-color: #f3e6ff; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.transaction-page,
+.contact-info,
+.transaction-form,
+.thank-you {
+  background-color: #fef5e7;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.btn-custom {
+  background-color: #ffcc00; 
+  color: black;
+  border: 1px solid black;   
+}
+
+.btn-custom:hover {
+  background-color: #e0e0e0; 
+  color: black;
+  border: 1px solid black;
+}
+.footer {
+  background-color: #f7b715; 
+  color: rgb(13, 13, 13);           
+  padding: 10px;
+  text-align: center;
+}
+.container {
+  padding-bottom: 50px; 
+}
